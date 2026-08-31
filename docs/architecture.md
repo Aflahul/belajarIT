@@ -74,10 +74,10 @@ Modul boleh berbagi database, tetapi aturan bisnis hanya diakses melalui service
 ### Identitas dan akademik
 
 1. `users` — identitas, role, credential guru/admin, status, session version.
-2. `students` — profil murid, kode, nomor absen, dan PIN hash.
+2. `students` — profil murid, kode siswa, dan PIN hash.
 3. `academic_periods` — tahun ajaran, semester, status aktif/arsip.
 4. `classes` — kelas dalam satu periode.
-5. `class_enrollments` — keanggotaan murid pada kelas.
+5. `class_enrollments` — keanggotaan dan nomor absen murid pada kelas/periode.
 6. `teacher_class_assignments` — akses guru terhadap kelas.
 
 ### Konten pembelajaran

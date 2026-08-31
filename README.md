@@ -44,6 +44,7 @@ Versi mengikuti Semantic Versioning. Nomor versi nantinya disimpan pada aplikasi
 - [Product specification](docs/product-spec.md)
 - [Architecture](docs/architecture.md)
 - [Design system](docs/design-system.md)
+- [Implementation roadmap](docs/implementation-roadmap.md)
 - [Agent rules](AGENTS.md)
 
 BRD, PRD, FRD, dan SRS tidak dipisah. Kebutuhan bisnis, produk, fitur, dan sistem dirangkum dalam `product-spec.md` agar realistis dipelihara oleh solo developer.
